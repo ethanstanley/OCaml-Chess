@@ -1,0 +1,404 @@
+{
+  "rows": [
+    [
+      {
+        "position_id": "A, 8",
+        "is_open": false,
+        "piece_id": "Rook Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "B, 8",
+        "is_open": false,
+        "piece_id": "Knight Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "C, 8",
+        "is_open": false,
+        "piece_id": "Bishop Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "D, 8",
+        "is_open": false,
+        "piece_id": "Queen Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "E, 8",
+        "is_open": false,
+        "piece_id": "King Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "F, 8",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "G, 8",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "H, 8",
+        "is_open": false,
+        "piece_id": "Rook Black",
+        "color": "Black"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "B, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "C, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "D, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "E, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "F, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "G, 7",
+        "is_open": false,
+        "piece_id": "Pawn Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "H, 7",
+        "is_open": false,
+        "piece_id": "Queen White",
+        "color": "White"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "B, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "C, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "D, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "E, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "F, 6",
+        "is_open": false,
+        "piece_id": "Knight Black",
+        "color": "Black"
+      },
+      {
+        "position_id": "G, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "H, 6",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "B, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "C, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "D, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "E, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "F, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "G, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "H, 5",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "B, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "C, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "D, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "E, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "F, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "G, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "H, 4",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "B, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "C, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "D, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "E, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "F, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "G, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      },
+      {
+        "position_id": "H, 3",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "B, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "C, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "D, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "E, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "F, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "G, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      },
+      {
+        "position_id": "H, 2",
+        "is_open": false,
+        "piece_id": "Pawn White",
+        "color": "White"
+      }
+    ],
+    [
+      {
+        "position_id": "A, 1",
+        "is_open": false,
+        "piece_id": "Rook White",
+        "color": "White"
+      },
+      {
+        "position_id": "B, 1",
+        "is_open": false,
+        "piece_id": "Knight White",
+        "color": "White"
+      },
+      {
+        "position_id": "C, 1",
+        "is_open": false,
+        "piece_id": "Bishop White",
+        "color": "White"
+      },
+      {
+        "position_id": "D, 1",
+        "is_open": false,
+        "piece_id": "Queen White",
+        "color": "White"
+      },
+      {
+        "position_id": "E, 1",
+        "is_open": false,
+        "piece_id": "King White",
+        "color": "White"
+      },
+      {
+        "position_id": "F, 1",
+        "is_open": false,
+        "piece_id": "Bishop White",
+        "color": "White"
+      },
+      {
+        "position_id": "G, 1",
+        "is_open": false,
+        "piece_id": "Knight White",
+        "color": "White"
+      },
+      {
+        "position_id": "H, 1",
+        "is_open": true,
+        "piece_id": "None",
+        "color": "None"
+      }
+    ]
+  ]
+}

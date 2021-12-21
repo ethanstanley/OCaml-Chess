@@ -1,0 +1,4 @@
+There are no necessary installs as of now. 
+To run the system, run 'dune build' and then 'make play'.
+This should prompt the terminal response. It will be white's turn and 
+there is functionality for a two player game implemented.
